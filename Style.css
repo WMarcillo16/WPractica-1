@@ -1,0 +1,37 @@
+body {
+  height: 100vh;
+  background: linear-gradient(to bottom, #7b82e6, #faf9de);
+  }
+  
+  .contenedor {
+    width: 400px;
+    margin: 50px auto;
+    border: 2px solid #17910c;
+    border-radius: 10px;
+    background: #97d7f5;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+  }
+  
+  .formulario {
+    padding: 20px;  
+  }
+  
+  h1 {
+    text-align: center;
+    color: #0f0e29;
+    margin-bottom: 30px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 8px 0;
+  }
+  
+  p:first-child {
+    font-weight: bold;
+  } 
+  
+  p:last-child {
+    font-style: italic;
+  }
